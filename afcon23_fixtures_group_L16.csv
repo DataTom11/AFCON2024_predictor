@@ -1,0 +1,45 @@
+home,score,away,Stage,stage,match_label
+Ivory Coast ,v, Guinea-Bissau,KO,Group,Group_M1
+Nigeria ,v, Equatorial Guinea,KO,Group,Group_M2
+Equatorial Guinea ,v, Guinea-Bissau,KO,Group,Group_M3
+Ivory Coast ,v, Nigeria,KO,Group,Group_M4
+Equatorial Guinea ,v, Ivory Coast,KO,Group,Group_M5
+Guinea-Bissau ,v, Nigeria,KO,Group,Group_M6
+Egypt ,v, Mozambique,KO,Group,Group_M7
+Ghana ,v, Cape Verde,KO,Group,Group_M8
+Egypt ,v, Ghana,KO,Group,Group_M9
+Cape Verde ,v, Mozambique,KO,Group,Group_M10
+Mozambique ,v, Ghana,KO,Group,Group_M11
+Cape Verde ,v, Egypt,KO,Group,Group_M12
+Senegal ,v, Gambia,KO,Group,Group_M13
+Cameroon ,v, Guinea,KO,Group,Group_M14
+Senegal ,v, Cameroon,KO,Group,Group_M15
+Guinea ,v, Gambia,KO,Group,Group_M16
+Guinea ,v, Senegal,KO,Group,Group_M17
+Gambia ,v, Cameroon,KO,Group,Group_M18
+Algeria ,v, Angola,KO,Group,Group_M19
+Burkina Faso ,v, Mauritania,KO,Group,Group_M20
+Algeria ,v, Burkina Faso,KO,Group,Group_M21
+Mauritania ,v, Angola,KO,Group,Group_M22
+Angola ,v, Burkina Faso,KO,Group,Group_M23
+Mauritania ,v, Algeria,KO,Group,Group_M24
+Tunisia ,v, Namibia,KO,Group,Group_M25
+Mali ,v, South Africa,KO,Group,Group_M26
+Tunisia ,v, Mali,KO,Group,Group_M27
+South Africa ,v, Namibia,KO,Group,Group_M28
+South Africa ,v, Tunisia,KO,Group,Group_M29
+Namibia ,v, Mali,KO,Group,Group_M30
+Morocco ,v, Tanzania,KO,Group,Group_M31
+DR Congo ,v, Zambia,KO,Group,Group_M32
+Morocco ,v, DR Congo,KO,Group,Group_M33
+Zambia ,v, Tanzania,KO,Group,Group_M34
+Tanzania ,v, DR Congo,KO,Group,Group_M35
+Zambia ,v, Morocco,KO,Group,Group_M36
+1D,,3BEF,KO,L16,L16_M1
+2A,,2C,KO,L16,L16_M2
+1A,,3CDE,KO,L16,L16_M3
+2B,,2F,KO,L16,L16_M4
+1B,,3ACD,KO,L16,L16_M5
+1C,,3ABF,KO,L16,L16_M6
+1E,,2D,KO,L16,L16_M7
+1F,,2E,KO,L16,L16_M8
