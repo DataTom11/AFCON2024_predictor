@@ -1,45 +1,58 @@
-home,score,away,Stage,stage,match_label
-Ivory Coast ,v, Guinea-Bissau,KO,Group,Group_M1
-Nigeria ,v, Equatorial Guinea,KO,Group,Group_M2
-Equatorial Guinea ,v, Guinea-Bissau,KO,Group,Group_M3
-Ivory Coast ,v, Nigeria,KO,Group,Group_M4
-Equatorial Guinea ,v, Ivory Coast,KO,Group,Group_M5
-Guinea-Bissau ,v, Nigeria,KO,Group,Group_M6
-Egypt ,v, Mozambique,KO,Group,Group_M7
-Ghana ,v, Cape Verde,KO,Group,Group_M8
-Egypt ,v, Ghana,KO,Group,Group_M9
-Cape Verde ,v, Mozambique,KO,Group,Group_M10
-Mozambique ,v, Ghana,KO,Group,Group_M11
-Cape Verde ,v, Egypt,KO,Group,Group_M12
-Senegal ,v, Gambia,KO,Group,Group_M13
-Cameroon ,v, Guinea,KO,Group,Group_M14
-Senegal ,v, Cameroon,KO,Group,Group_M15
-Guinea ,v, Gambia,KO,Group,Group_M16
-Guinea ,v, Senegal,KO,Group,Group_M17
-Gambia ,v, Cameroon,KO,Group,Group_M18
-Algeria ,v, Angola,KO,Group,Group_M19
-Burkina Faso ,v, Mauritania,KO,Group,Group_M20
-Algeria ,v, Burkina Faso,KO,Group,Group_M21
-Mauritania ,v, Angola,KO,Group,Group_M22
-Angola ,v, Burkina Faso,KO,Group,Group_M23
-Mauritania ,v, Algeria,KO,Group,Group_M24
-Tunisia ,v, Namibia,KO,Group,Group_M25
-Mali ,v, South Africa,KO,Group,Group_M26
-Tunisia ,v, Mali,KO,Group,Group_M27
-South Africa ,v, Namibia,KO,Group,Group_M28
-South Africa ,v, Tunisia,KO,Group,Group_M29
-Namibia ,v, Mali,KO,Group,Group_M30
-Morocco ,v, Tanzania,KO,Group,Group_M31
-DR Congo ,v, Zambia,KO,Group,Group_M32
-Morocco ,v, DR Congo,KO,Group,Group_M33
-Zambia ,v, Tanzania,KO,Group,Group_M34
-Tanzania ,v, DR Congo,KO,Group,Group_M35
-Zambia ,v, Morocco,KO,Group,Group_M36
-1D,,3BEF,KO,L16,L16_M1
-2A,,2C,KO,L16,L16_M2
-1A,,3CDE,KO,L16,L16_M3
-2B,,2F,KO,L16,L16_M4
-1B,,3ACD,KO,L16,L16_M5
-1C,,3ABF,KO,L16,L16_M6
-1E,,2D,KO,L16,L16_M7
-1F,,2E,KO,L16,L16_M8
+home,score,away,Stage,stage,ko_label
+Ivory Coast ,2–0, Guinea-Bissau,KO,Group,
+Nigeria ,1–1, Equatorial Guinea,KO,Group,
+Equatorial Guinea ,4–2, Guinea-Bissau,KO,Group,
+Ivory Coast ,0–1, Nigeria,KO,Group,
+Equatorial Guinea ,4–0, Ivory Coast,KO,Group,
+Guinea-Bissau ,0–1, Nigeria,KO,Group,
+Egypt ,2–2, Mozambique,KO,Group,
+Ghana ,1–2, Cape Verde,KO,Group,
+Egypt ,2–2, Ghana,KO,Group,
+Cape Verde ,3–0, Mozambique,KO,Group,
+Mozambique ,2–2, Ghana,KO,Group,
+Cape Verde ,2–2, Egypt,KO,Group,
+Senegal ,3–0, Gambia,KO,Group,
+Cameroon ,1–1, Guinea,KO,Group,
+Senegal ,3–1, Cameroon,KO,Group,
+Guinea ,1–0, Gambia,KO,Group,
+Guinea ,0–2, Senegal,KO,Group,
+Gambia ,2–3, Cameroon,KO,Group,
+Algeria ,1–1, Angola,KO,Group,
+Burkina Faso ,1–0, Mauritania,KO,Group,
+Algeria ,2–2, Burkina Faso,KO,Group,
+Mauritania ,2–3, Angola,KO,Group,
+Angola ,2–0, Burkina Faso,KO,Group,
+Mauritania ,1–0, Algeria,KO,Group,
+Tunisia ,0–1, Namibia,KO,Group,
+Mali ,2–0, South Africa,KO,Group,
+Tunisia ,1–1, Mali,KO,Group,
+South Africa ,4–0, Namibia,KO,Group,
+South Africa ,0–0, Tunisia,KO,Group,
+Namibia ,0–0, Mali,KO,Group,
+Morocco ,3–0, Tanzania,KO,Group,
+DR Congo ,1–1, Zambia,KO,Group,
+Morocco ,1–1, DR Congo,KO,Group,
+Zambia ,1–1, Tanzania,KO,Group,
+Tanzania ,0–0, DR Congo,KO,Group,
+Zambia ,0–1, Morocco,KO,Group,
+Egypt ,1–1 (a.e.t.), DR Congo,KO,L16,
+Cape Verde ,1–0, Mauritania,KO,L16,
+Senegal ,1–1 (a.e.t.), Ivory Coast,KO,L16,
+Mali ,2–1, Burkina Faso,KO,L16,
+Morocco ,0–2, South Africa,KO,L16,
+Nigeria ,1–0, Angola,KO,L16,
+DR Congo ,3–1, Guinea,KO,L16,
+Mali ,1–2 (a.e.t.), Ivory Coast,KO,L16,
+Cape Verde ,0–0 (a.e.t.), South Africa,KO,,
+Nigeria ,1–1 (a.e.t.), South Africa,KO,,
+Ivory Coast ,1–0, DR Congo,KO,,
+South Africa ,0–0, DR Congo,KO,,
+Nigeria ,1–2, Ivory Coast,KO,,
+1D,,3BEF,KO,,
+2A,,2C,KO,,
+1A,,3CDE,KO,,
+2B,,2F,KO,,
+1B,,3ACD,KO,,
+1C,,3ABF,KO,,
+1E,,2D,KO,,
+1F,,2E,KO,,
